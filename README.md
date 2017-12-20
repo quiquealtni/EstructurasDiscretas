@@ -1,4 +1,4 @@
-# EstructurasDiscretas
+# Estructuras Discretas
 Prácticas del curso de Estructuras Discretas, Licenciatura en Ciencias de la Computación, Semestre 2018-1. 
 
 
